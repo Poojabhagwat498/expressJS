@@ -1,7 +1,6 @@
 # 🚀 Express.js Multi-Feature Web App
 
 A simple **Node.js + Express.js Web Application** that demonstrates multiple frontend features like **Login Page, Bulb Toggle, and Weather UI**.
-
 This project is designed to showcase **server setup, routing, and static file handling using Express.js**.
 
 ---
